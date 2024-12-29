@@ -14,3 +14,8 @@ step.3
 ```bash
 python main.py
 ```
+
+
+## thx
+
+[Microsoft - markitdown](https://github.com/microsoft/markitdown)
